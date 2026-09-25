@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "727123421542",
+    "project_id": "evide-school-parent",
+    "storage_bucket": "evide-school-parent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727123421542:android:f9dabd2950de23763f80a7",
+        "android_client_info": {
+          "package_name": "in.evide.parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5B-9CaArRQMv26k6JwIfvDHNCCoBknU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727123421542:android:9fe50546c338b3b53f80a7",
+        "android_client_info": {
+          "package_name": "in.evide.school.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5B-9CaArRQMv26k6JwIfvDHNCCoBknU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727123421542:android:52d0d4c8f2924ee43f80a7",
+        "android_client_info": {
+          "package_name": "in.evide.school.parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5B-9CaArRQMv26k6JwIfvDHNCCoBknU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
